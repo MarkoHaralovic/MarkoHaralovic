@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A deep learning enginner from Zagreb</h3>
 
-- 🔭 I’m currently working for [Arkensight](https://www.arkensight.com/)
-
-- 🌱 I’m currently learning **Multimodal feature alignment, effective feature representation.**
-
-- ⚡ I’m also doing research at my Uni [Multi task recognition of road safety attributes](https://www.fer.unizg.hr/en)
+- 🌱 I’m currently learning **Multimodal feature alignment, effective feature representation. Experimenting with open-vocab object detection, finentuning VLMs.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/marko-haralovic/**
 
