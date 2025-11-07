@@ -9,16 +9,9 @@
 ## 📈 Activity & Commits
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=markoharalovic&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MarkoHaralovic&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markoharalovic&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Marko's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarkoHaralovic&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Marko's GitHub stats"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markoharalovic&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-
-
